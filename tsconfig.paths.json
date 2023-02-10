@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@UI/*": ["src/UI/*"],
+      "@components/*": ["src/components/*"],
+      "@forms/*": ["src/forms/*"]
+    }
+  }
+}

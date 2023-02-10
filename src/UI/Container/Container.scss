@@ -1,0 +1,7 @@
+.main-wrapper {
+  @apply relative;
+  @apply container;
+  @apply h-screen;
+  @apply flex justify-center items-center flex-col;
+  @apply overflow-hidden;
+}
